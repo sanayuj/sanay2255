@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanay UJ</h1>
-<h3 align="center">A passionate Flutter developer from India,I love learn new things related to IT. I also done serveral project in Flutter,Swift.I'm also a Cyber Security Enthusiast.</h3>
+<h3 align="center">A passionate App developer from India,I love to learn new things related to IT. I also done serveral project in Flutter,Swift.I'm also a Cyber Security Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanay2255&label=Profile%20views&color=0e75b6&style=flat" alt="sanay2255" /> </p>
 
