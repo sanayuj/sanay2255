@@ -1,28 +1,25 @@
 
 [personal]
-name = 'Muhammed Jishin Jamal T.C.P'
+name = 'Sanay UJ'
 Location = 'Kerala, India'
-email = [ 'mohdjishin666', 'at', 'gmail.com' ]
+email = [ 'sanayuj2255', 'at', 'gmail.com' ]
 
 [professional]
 currently-employed = false
-title = ['Ethical hacker', ' Application Security', 
-          'Network Security', 'Penetration Tester',
-          'Vulnerability Assessment and Penetration Testing', 
-                'Web dev']
+title = ['Web Developer', ' Application Security', 
+           'Penetration Tester','Web dev']
 
 
 [bio]
 interests = [
-  'linux',
-  'open-source',
-   'Pentesting',
-    'Info-sec'
+  'MERN',
+  'UI/UX desigining',
+  ,'linux'
 ]
 programming-languages = [
   'c/cpp',
-  'python',
-  'Go'
+  'Javascript',
+  'Python'
 ]
 
 database = [
