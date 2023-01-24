@@ -17,28 +17,34 @@ email = [ 'sanayuj2255', 'at', 'gmail.com' ]
 
 [professional]
 currently-employed = false
-title = ['Full stack-dev', 'MERN', ' Application Security', 
-          'Network Security', 'IOS-dev',
-          'UI/UX designer']
+title = [
+'Full stack-dev',
+  'MERN', 
+    'Application Security', 
+       'Network Security', 
+         'IOS-dev',
+            'UI/UX designer'
+            ]
 
 
 [bio]
 interests = [
 'web development & Designing',
   'linux',
-  'open-source',
-    'Info-sec'
+    'open-source',
+      'Info-sec'
 ]
 programming-languages = [
   'c/cpp',
-  'python',
-  'Javascrirt',
-  'Dart','Swift'
+   'python',
+      'Javascrirt',
+        'Dart',
+          'Swift'
 ]
 
 database = [
 'MySql',
-'MongoDb'
+  'MongoDb'
 ]
 
 ```
