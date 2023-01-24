@@ -32,7 +32,8 @@ interests = [
 programming-languages = [
   'c/cpp',
   'python',
-  'Javascrirt'
+  'Javascrirt',
+  'Dart','Swift'
 ]
 
 database = [
