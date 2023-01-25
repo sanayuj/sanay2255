@@ -18,8 +18,9 @@ email = [ 'sanayuj2255', 'at', 'gmail.com' ]
 [professional]
 currently-employed = false
 title = [
-'Full stack-dev',
-  'MERN', 
+
+'MERN', 
+  'Full stack-dev',
     'Application Security', 
        'Network Security', 
          'IOS-dev',
@@ -29,15 +30,15 @@ title = [
 
 [bio]
 interests = [
-'Web development & Designing',
-  'linux',
+'Web Development & Designing',
+  'Linux',
      'Info-sec'
 ]
 programming-languages = [
+'Javascrirt',
   'c/cpp',
-   'python',
-      'Javascrirt',
-        'Dart',
+    'python',
+       'Dart',
           'Swift'
 ]
 
