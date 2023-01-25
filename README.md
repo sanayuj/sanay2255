@@ -52,7 +52,7 @@ database = [
 
 
 
- <a href="https://github.com/sanayuj/sanay2255/edit/main/README.md">
+ <a href="https://www.linkedin.com/in/sanayuj/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sanay UJ's LinkedIn Profile" height="30" width="30">
   </a>
 
