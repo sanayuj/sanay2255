@@ -29,10 +29,9 @@ title = [
 
 [bio]
 interests = [
-'web development & Designing',
+'Web development & Designing',
   'linux',
-    'open-source',
-      'Info-sec'
+     'Info-sec'
 ]
 programming-languages = [
   'c/cpp',
