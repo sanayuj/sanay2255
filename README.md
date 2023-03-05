@@ -21,9 +21,8 @@ title = [
 
 'MERN', 
   'Full stack-dev',
-    'Application Security', 
-       'Network Security', 
-         'IOS-dev',
+    'Application Security',  
+         'IOS-UI&UX-Designer',
             'UI/UX designer'
             ]
 
