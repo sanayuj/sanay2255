@@ -41,6 +41,12 @@ programming-languages = [
           'Swift'
 ]
 
+operating-system =[
+'MacOS',
+  'Linux',
+    'Windows'
+]
+
 database = [
 'MySql',
   'MongoDb'
