@@ -26,30 +26,37 @@ title = [
             'UI/UX designer'
             ]
 
-
 [bio]
 interests = [
-'Web Development & Designing',
-  'Linux',
-     'Info-sec'
+
+'Web Development & Designing', 
+  'Info-sec'
+  
 ]
+
 programming-languages = [
+
 'Javascrirt',
   'c/cpp',
     'python',
        'Dart',
           'Swift'
+          
 ]
 
 operating-system =[
+
 'MacOS',
   'Linux',
     'Windows'
+    
 ]
 
 database = [
+
 'MySql',
   'MongoDb'
+  
 ]
 
 ```
