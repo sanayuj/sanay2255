@@ -18,8 +18,7 @@ email = [ 'sanayuj2255', 'at', 'gmail.com' ]
 [professional]
 currently-employed = false
 title = [
-
-'MERN', 
+ 
   'Full stack-dev',
     'Application Security',  
          'IOS-UI/UX-Designer',
