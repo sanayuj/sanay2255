@@ -21,7 +21,7 @@ title = [
  
   'Full stack-dev',
     'Application Security',  
-         'IOS-UI/UX-Designer',
+         'React dev',
             'UI/UX designer'
             ]
 
