@@ -16,7 +16,7 @@ Location = 'Kerala, India'
 email = [ 'sanayuj2255', 'at', 'gmail.com' ]
 
 [professional]
-currently-employed = false
+currently-employed = True
 title = [
  
   'Full stack-dev',
