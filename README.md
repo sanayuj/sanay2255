@@ -13,7 +13,7 @@ Here's my `Manifest.xml`:
 [personal]
 name = 'Sanay UJ'
 Location = 'Kerala, India'
-email = [ 'sanayuj2255', 'at', 'gmail.com' ]
+email = [ 'ujsanay', 'at', 'gmail.com' ]
 
 [professional]
 currently-employed = True
@@ -29,17 +29,17 @@ title = [
 interests = [
 
 'Web Development & Designing', 
-  'Info-sec'
+    'IOS Application Development',
+       'Info-sec'
   
 ]
 
 programming-languages = [
 
-'Javascrirt',
-  'c/cpp',
-    'python',
-       'Dart',
-          'Swift'
+'Javascript',
+  'Typescript',
+    'c/cpp',
+      'Swift'
           
 ]
 
