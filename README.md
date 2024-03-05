@@ -19,10 +19,10 @@ email = [ 'ujsanay', 'at', 'gmail.com' ]
 currently-employed = True
 title = [
  
-  'Full stack-dev',
+  'Full Stack-Developer',
     'Application Security',  
-         'React dev',
-            'UI/UX designer'
+      'React Developer',
+        'UI/UX Designer'
             ]
 
 [bio]
