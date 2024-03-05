@@ -30,7 +30,7 @@ interests = [
 
 'Web Development & Designing', 
     'IOS Application Development',
-       'Info-sec'
+       'Cyber Security'
   
 ]
 
